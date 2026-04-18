@@ -1,0 +1,12 @@
+# 忽略视频
+*.mp4
+# VS编译、本地缓存
+bin/
+Debug/
+Release/
+.vs/
+*.dll
+*.lib
+*.exe
+# 编辑器配置
+.vscode/
